@@ -23,12 +23,10 @@ Everything is written in plain HTML with basic inline styling.
 
 ---
 
-Nothing else is required.
----
 ## File Structure
 .
 ├── index.html <br>
-└── README.md
+ └── README.md
 
 ---
 
@@ -50,13 +48,10 @@ Option 1: Open Directly
 	•	Open index.html in any web browser.
 	•	The resume will load immediately.
 
-Option 2: Run Using Local Server
-
-If you are using a local server (for example with Node.js or any dev server):
-	1.	Start the server.
-	2.	Open your browser.
+Option 2: Using VSCode and Liveserver
+	1.	Open file in VS code.
+	2.	Click on 'Go Live' on bottom right corner.
 	3.	Go to:
-  
   ```bash
 http://localhost:3000
 ```
