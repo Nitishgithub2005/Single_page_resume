@@ -23,16 +23,11 @@ Everything is written in plain HTML with basic inline styling.
 
 ---
 
-## Technologies Used
-
-- HTML5  
-- Basic inline CSS  
-
 Nothing else is required.
 ---
 ## File Structure
 .
-├── index.html
+├── index.html <br>
 └── README.md
 
 ---
