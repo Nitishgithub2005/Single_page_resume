@@ -6,6 +6,12 @@ It shows personal details, skills, projects, education, and contact information 
 No frameworks are used. It is easy to read, edit, and run.
 
 ---
+Live Website
+
+This resume is hosted on Vercel and can be accessed here:
+
+https://single-page-resume-wine.vercel.app
+---
 
 ## Overview
 
